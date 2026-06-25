@@ -1,4 +1,4 @@
-# Semantic Change in Nineteenth- and Twentieth-Century French Literary Prose
+# Semantic Change in 19th- and 20th-Century French Literary Prose
 
 This repository contains the code developed for my Master's dissertation in Computational Linguistics at Sorbonne Nouvelle.
 
