@@ -1,1 +1,24 @@
+# Python
+__pycache__/
+*.pyc
 
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Google Colab
+content/
+
+# Models
+models/
+
+# Raw corpus
+data/raw/
+
+# Processed text
+data/processed/
+
+# Temporary files
+*.log
